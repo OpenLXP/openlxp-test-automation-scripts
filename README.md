@@ -2,7 +2,7 @@
 
 
 ## Features
-The following scripts in "openlxp-test-automation-scripts" will work together to test various features of the Enterprise Course Catalog
+This following scripts will work together to test various features of the Enterprise Course Catalog
 ## Prerequisite
 - Python
 - Selenium
@@ -13,7 +13,7 @@ The following scripts in "openlxp-test-automation-scripts" will work together to
 - Selenium 3.141.0
 
 ## Directory Structure
-- pageobjects
+> [`pageobjects`](https://github.com/OpenLXP/openlxp-test-automation-scripts/tree/main/pageobjects "pageobjects folder"): Folder which contains python scripts. The python scripts use Selenium to search and identify the presences of various HTML elements via their XPATH on the webpage which will be tested. These elements will later be referenced in other test scripts which will perform various actions with the HTML elements.
 - reports
 - testcases
 - values
