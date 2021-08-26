@@ -2,7 +2,7 @@
 
 
 ## Features
-This following scripts will work together to test various features of the Enterprise Course Catalog
+The following scripts in "openlxp-test-automation-scripts" will work together to test various features of the Enterprise Course Catalog
 ## Prerequisite
 - Python
 - Selenium
